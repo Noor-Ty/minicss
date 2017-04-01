@@ -1,6 +1,6 @@
 /*
-  MobWide - CSS library for PWA and hybrid apps
-  https://github.com/gmasson/mobwide/
+  MiciCSS - CSS library for small projects
+  https://github.com/gmasson/minicss/
   License MIT
 */
 
@@ -50,6 +50,7 @@ pre {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  text-decoration: none;
 }
 
 a:active,
